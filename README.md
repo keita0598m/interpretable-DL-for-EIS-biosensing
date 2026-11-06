@@ -37,8 +37,3 @@ python main.py
 ```
 
 オプションは各フォルダの README を参照してください。
-
-## 参考文献
-
-- D. Doonyapisut et al., "Deep generative learning for exploration in large electrochemical impedance dataset," *Engineering Applications of Artificial Intelligence*, vol. 126, 2023.
-- D. P. Kingma and M. Welling, "Auto-Encoding Variational Bayes," ICLR, 2014.
